@@ -14,7 +14,7 @@ public class testSistemaBancario {
 		Integer id =1;
 		Double saldoInicial= 10000.0;
 		Integer idCliente = 1;
-		String nombre = "German";
+		String nombre = "Jonatan";
 		Cliente cliente = new Cliente(idCliente , nombre );
 		
 		Cuenta cuenta = new Cuenta(id , cliente , saldoInicial);
