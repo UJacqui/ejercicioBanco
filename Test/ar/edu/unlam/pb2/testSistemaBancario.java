@@ -46,5 +46,9 @@ public class testSistemaBancario {
 	
 		
 	}
+	
+	@Test
+	public void borrarEsteTest(){
+	}
 
 }
